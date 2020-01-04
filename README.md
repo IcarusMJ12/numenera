@@ -26,7 +26,7 @@ No other example in the book ever mentions this, so if you missed it the first 4
 
 The corollary to this rule stemming from "Edge for a particular stat" is that you can spend Edge from different pools for the same action, provided that each type of Edge spent applies only to one, though different, aspect of that action.
 
-> e.g. A brand new tier 1 Glaive wishes to use **Fleet of Foot** to close distance with a broken hound and engage it in melee.  The Glaive also wants to apply a level of effort to ease the attack roll.  Because melee attacks can be either Might or Speed tasks, the Glaive opts to spend its 1 point of Speed Edge to pay the cost of the **Fleet of Foot** enabler, and then spend 1 point of Might Edge to discount the cost of Might Effort to damage for the Might-based attack action.
+> e.g. A brand new tier 1 Glaive wishes to use **Fleet of Foot** to close distance with a broken hound and engage it in melee.  The Glaive also wants to apply a level of effort to ease the attack roll.  Because melee attacks can be either Might or Speed tasks, the Glaive opts to spend its 1 point of Speed Edge to pay the cost of the **Fleet of Foot** enabler, and then spend 1 point of Might Edge to discount the cost of Might Effort to hit for the Might-based attack action.
 
 > e.g. A tier 2 Glaive wishes to use **Crushing Blow** to ensure that the attack kills their opponent outright.  Because **Crushing Blow** is a Might action, the Glaive can only use Might Edge on this task, and therefore Speed Edge will have to remain unused.
 
@@ -56,7 +56,7 @@ Skills in Numenera are exceptionally confusing, which is why this subsection has
 
 ### Skill Stacking
 
-RAW suggests that if you're trained in A as well as trained in B, if you're attempting a task that's at the intersection of A and B, you count as specialized in intersection(A and B).
+RAW suggest that if you're trained in A as well as trained in B, if you're attempting a task that's at the intersection of A and B, you count as specialized in intersection(A and B).
 
 > e.g. As a Delve who Explores Dark Places, you are automatically skilled in Searching, and you picked Perception as your starting skill.  Searching could be considered as a subset of the more general Perception, and thus you count as specialized in Searching tasks.
 
